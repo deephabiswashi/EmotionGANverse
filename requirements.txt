@@ -1,0 +1,23 @@
+# General
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+opencv-python
+scikit-learn
+
+# Deep Learning
+tensorflow==2.12.0
+keras==2.12.0
+
+# For notebooks
+jupyter
+notebook
+
+# Image & file handling
+Pillow
+imageio
+
+# Optional (depending on StarGAN/BigGAN implementations)
+tensorboard
