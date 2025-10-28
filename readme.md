@@ -1,6 +1,7 @@
 # EmotionGANverse
 
-A unified deep learning project implementing and comparing four powerful Generative Adversarial Network (GAN) models: **DCGAN**, **CGAN**, **BigGAN**, and **StarGAN**. Each model is developed from scratch using Tensorflow, enabling high-quality image generation and facial expression transformation.
+A unified deep learning project implementing and comparing four powerful Generative Adversarial Network (GAN) models: **DCGAN**, **CGAN**, **BigGAN**, and **StarGAN**. Each model is developed from scratch using Tensorflow, enabling high-quality image generation and facial expression transformation.Each GAN model has its own specifications and usage.
+
 
 ## 📂 Project Structure
 
